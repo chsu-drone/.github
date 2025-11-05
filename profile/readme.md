@@ -18,13 +18,13 @@
 
 ## Доски задач
 
-[Ксюша](https://github.com/chsu-drone/.github/tasks/ksusha.md)
+[Ксюша](https://github.com/chsu-drone/.github/blob/main/tasks/ksusha.md)
 
-[Игнат](https://github.com/chsu-drone/.github/tasks/ignat.md)
+[Игнат](https://github.com/chsu-drone/.github/blob/main/tasks/ignat.md)
 
-[Саша](https://github.com/chsu-drone/.github/tasks/sasha.md)
+[Саша](https://github.com/chsu-drone/.github/blob/main/tasks/sasha.md)
 
-[Макс](https://github.com/chsu-drone/.github/tasks/max.md)
+[Макс](https://github.com/chsu-drone/.github/blob/main/tasks/max.md)
 
 
 
