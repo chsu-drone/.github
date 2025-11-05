@@ -1,20 +1,29 @@
 # Разработка дрона ЧГУ
 
-[Редактировать файл](https://github.com/chsu-drone/.github/edit/main/profile/readme.md)
 
 ### Задачи 
-[Ксюша]
-[Игнат]
-[Саша]
-[Макс]
 
-Файл редактировать можно и нужно! (Лень азводить канбан)
+|   | Задача | Дедлайн |
+| ------------- | ------------- | ------------- |
+| ⬜ | Добавлена |  |
+| ⏳ | Взял в работу |  |
+| ✅ | Выполнено |  |
+| ‼️ | Высокий приоритет |  |
+
+
+
+
+[Ксюша](https://github.com/chsu-drone/.github/tasks/ksusha.md)
+
+[Игнат](https://github.com/chsu-drone/.github/tasks/ignat.md)
+
+[Саша](https://github.com/chsu-drone/.github/tasks/sasha.md)
+
+[Макс](https://github.com/chsu-drone/.github/tasks/max.md)
 
 Сначала надо спулить (git) себе репозиторий, чтобы вы смогли редактировать код с разных устройств.
 Не забываем про git add / git coomit  /  git push
 
-У всех iDe есть плагин для работы с git / github, юзаем их
-
-
+У всех IDE есть плагин для работы с git / github, юзаем их
 
 
